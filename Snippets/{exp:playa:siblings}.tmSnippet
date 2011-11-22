@@ -4,7 +4,7 @@
 <dict>
 	<key>content</key>
 	<string>{exp:playa:siblings${10:
-  entry_id="child_entry_id"}${40:
+  entry_id="${20:sibling_entry_id}"}${40:
   sibling_id="${60:1|2|3}"}${70:
   ${80:field}="${90:$80}"}${100:
   ${140:col}="${150:$140}"}${160:

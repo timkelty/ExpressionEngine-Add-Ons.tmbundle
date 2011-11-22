@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>{exp:stash:set${10:
+  name="${20:string}"}${40:
+  type="${60:variable}"}${100:}}
+	${0:$TM_SELECTED_TEXT}
+{/exp:stash:set}</string>
+	<key>name</key>
+	<string>(exp:stash:set}</string>
+	<key>scope</key>
+	<string>text.html.ee</string>
+	<key>tabTrigger</key>
+	<string>stash</string>
+	<key>uuid</key>
+	<string>C01156C1-A9C8-40DE-AE9C-148FF12D2EDE</string>
+</dict>
+</plist>

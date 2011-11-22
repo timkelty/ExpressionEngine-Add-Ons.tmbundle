@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>name</key>
+	<string>ExpressionEngine Add-Ons</string>
+	<key>ordering</key>
+	<array>
+		<string>CA9F47C5-ED78-4083-A3A9-421582AE28CE</string>
+		<string>2FB337DE-B800-492E-88BF-3968B365B95B</string>
+		<string>365C7356-AA1E-4D0B-847B-3B504241308C</string>
+		<string>C01156C1-A9C8-40DE-AE9C-148FF12D2EDE</string>
+		<string>BE194761-A92A-43C2-9673-199CBF502157</string>
+	</array>
+	<key>uuid</key>
+	<string>7CDC6830-5748-4F00-B88C-550B4B816E4C</string>
+</dict>
+</plist>

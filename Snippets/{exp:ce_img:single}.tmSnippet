@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>{exp:ce_img
+  src="$20"${40:
+  allow_scale_larger="$60"}${70:
+  crop="${90:yes_or_no|position|offset|smart_scale}"}${100:
+  fallback_src="$150"}${160:
+  max="$180"}${190:
+  width="$200"}${210:
+  height="$220"}}
+</string>
+	<key>name</key>
+	<string>{exp:ce_img:single}</string>
+	<key>scope</key>
+	<string>text.html.ee</string>
+	<key>tabTrigger</key>
+	<string>ce</string>
+	<key>uuid</key>
+	<string>AB65032F-44B9-49B1-AC05-6BF07C84998C</string>
+</dict>
+</plist>

@@ -6,9 +6,9 @@
 	<string>{exp:playa:siblings${10:
   entry_id="${20:sibling_entry_id}"}${40:
   sibling_id="${60:1|2|3}"}${70:
-  ${80:field}="${90:$80}"}${100:
-  ${140:col}="${150:$140}"}${160:
-  row_id="${180:row_id}"}${190:
+  ${80:field}="$90"}${100:
+  ${140:col}="$150"}${160:
+  row_id="$180"}${190:
   disable="${191:custom_fields|}${192:categories|}${193:category_fields|}${194:member_data|}${195:pagination}"}}
 
   ${250:{if no_siblings\}$260{/if\}}${270:$TM_SELECTED_TEXT}

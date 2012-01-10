@@ -9,9 +9,7 @@
   dynamic="${80:no}"}${90:
   default="${100:string}"}${110:
   strip_tags="${120:no}"}${130:
-  strip_curly_braces="${140:no}"}${150:}}
-	${0:$TM_SELECTED_TEXT}
-{/exp:stash:get}</string>
+  strip_curly_braces="${140:no}"}${150:}}</string>
 	<key>name</key>
 	<string>{exp:stash:get}</string>
 	<key>scope</key>
